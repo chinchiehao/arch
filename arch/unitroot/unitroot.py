@@ -79,6 +79,7 @@ __all__ = [
     "mackinnoncrit",
     "mackinnonp",
     "ZivotAndrews",
+    "auto_bandwidth",
 ]
 
 TREND_MAP = {None: "nc", 0: "c", 1: "ct", 2: "ctt"}
